@@ -11,3 +11,5 @@ title: TODO
 大模型技术26年的风口我认为是agentic相关的，我是今年下半年秋招，所以我需要对这个领域有一个全面的认识，如果能够有一些好的idea可以尝试去探索一些agentic相关的研究。
 
 ### 调研多模态Agentic的相关技术和应用场景
+
+- []  A Survey on Agentic Multimodal Large Language Models，3.26-3.29阅读该survey
